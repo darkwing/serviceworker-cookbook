@@ -2,10 +2,10 @@
 
 This basic recipe illustrates caching critical resources for offline use and then notifying the user that they may go offline and enjoy the same experience.
 
+## Difficulty
+Beginner
 
 ## Features and usage
-
-Features are:
 
 - Register a service worker
 - Monitor the cached status of required resources
@@ -17,6 +17,6 @@ The only action required is loading the page initially.  After initial load, the
 
 Tests have been run in:
 
-- Firefox Nightly 44.0a1 (2015-10-12)
+- Firefox Nightly 44.0a1
 - Chrome Canary 48.0.2533.0
 - Opera 32.0
