@@ -59,7 +59,7 @@ The browser log prints:
 
 ## Compatibility
 
-Tests has been run on:
+Tests have been run in:
 
 - Firefox Nightly 44.0a1 (2015-10-12)
 - Chrome Canary 48.0.2533.0
